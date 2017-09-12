@@ -2,6 +2,9 @@ package com.itheima.solr;
 
 public class Test {
 	public static void main(String[] args) {
-		System.out.println("²âÊÔÀà");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+	}
+	public void  test(){
+		System.out.println("hahah");
 	}
 }
