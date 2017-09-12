@@ -7,4 +7,11 @@ public class Test {
 	public void  test(){
 		System.out.println("�����¼��ϵĴ���");
 	}
+	
+	public void add1(){
+		System.out.println("add11");
+	}
+	public void add2(){
+		System.out.println("add22");
+	}
 }
