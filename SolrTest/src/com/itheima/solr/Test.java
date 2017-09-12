@@ -7,4 +7,8 @@ public class Test {
 	public void  test(){
 		System.out.println("hahah");
 	}
+	
+	public void test(){
+		System.out.println("这是新加上的代码");
+	}
 }
