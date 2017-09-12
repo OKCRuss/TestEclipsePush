@@ -5,10 +5,6 @@ public class Test {
 		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 	}
 	public void  test(){
-		System.out.println("hahah");
-	}
-	
-	public void test(){
-		System.out.println("ÕâÊÇĞÂ¼ÓÉÏµÄ´úÂë");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½ÏµÄ´ï¿½ï¿½ï¿½");
 	}
 }
